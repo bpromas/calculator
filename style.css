@@ -69,5 +69,6 @@ button:active {
 }
 
 .equals {
+    flex-grow: 3;
     background-color: #3CAEA3;
 }
